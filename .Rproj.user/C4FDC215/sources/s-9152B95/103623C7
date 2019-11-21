@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574351579308.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2622843680",
+    "id" : "103623C7",
+    "lastKnownWriteTime" : 1574351600,
+    "last_content_update" : 1574351600287,
+    "path" : "~/Downloads/2_GITHUB/my-repo/second_script.R",
+    "project_path" : "second_script.R",
+    "properties" : {
+        "cursorPosition" : "0,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
